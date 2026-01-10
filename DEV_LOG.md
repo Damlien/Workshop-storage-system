@@ -43,7 +43,7 @@ I "learning_experiments" mappen ble det opprettet mappen "data_lagring_test"
 - lagde script data_lagring_test.py 
 
 	kode som ble brukt:
-	
+
 		import json
 
 		liste av dioctionaries for lagring av data for komponenter i lager:
@@ -84,5 +84,11 @@ Lagde mappen søk og filen søk_i_lager.py
 - Bruker enkel input for søkeord og bruker det for å sammenligne med navn i lager listen
 
 - bruker path library for å finne lokasjon til lager.json som ligger i en annen mappe enn scriptet
+
+Lagde mappen "lager_endring" og scriptene: "vare_pafyll.py", "vare_registrering.py" og "vare_uttak.py
+
+- vare_pafyll.py: søke opp vare og legge til flere antall
+- vare_uttak.py: søke opp vare og redusere antall
+- vare_registrering.py: legge til helt ny komponent
 
 

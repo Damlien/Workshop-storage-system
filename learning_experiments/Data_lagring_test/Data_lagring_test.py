@@ -1,11 +1,11 @@
 import json
 from pathlib import Path
 
-komponenter = [ #format {"id":  , "navn": , "antall": , "hyll":  }
-    {"id":1  , "navn": "motstand 10kohm" , "antall": 100, "hyll": 1 },
-    {"id":2  , "navn": "Arduino Nano" , "antall": 8 , "hyll": 2  },
-    {"id": 3 , "navn": "kondensator", "antall": 20, "hyll": 3 },
-    {"id": 4 , "navn": "nmos", "antall": 20, "hyll": 4 }
+komponenter = [ #format {"id":  , "navn": , "antall": , "hylle":  }
+    {"id":1  , "navn": "motstand 10kohm" , "antall": 100, "hylle": 1 },
+    {"id":2  , "navn": "Arduino Nano" , "antall": 8 , "hylle": 2  },
+    {"id": 3 , "navn": "kondensator", "antall": 20, "hylle": 3 },
+    {"id": 4 , "navn": "nmos", "antall": 20, "hylle": 4 }
 ]
 
 
