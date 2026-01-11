@@ -1,2 +1,3 @@
-# Verksted-Lager-system
-Utvikling av lagersystem for studentdrevet elektronikklab
+# Workshop-storage-system
+
+Development of storage system for student electronic lab
