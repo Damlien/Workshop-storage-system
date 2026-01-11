@@ -106,7 +106,7 @@ def update_item(old_id, new_id, new_name, new_quantity, new_shelf):
         return False
 
 
-#funksjon for å kunne sende medling til discord for å informere om lav antall komponenter
+#Function for sending message to discord when there is low number of componetns in storage
 def send_discord_alerts(product_name, quantity):
     discord_url_file = MY_BASE_DIR / "discord_webhook_url.env"
 

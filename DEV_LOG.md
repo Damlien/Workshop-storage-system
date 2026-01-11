@@ -165,3 +165,4 @@ New function in `inventory_service.py` `send_discord_alerts(product_name, quanti
 			return True
 		else:
 			return False
+- check
