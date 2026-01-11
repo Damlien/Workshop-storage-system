@@ -8,13 +8,13 @@
     {
         "id": 2,
         "name": "Arduino Nano",
-        "quantity": 2,
+        "quantity": 5,
         "shelf": "2"
     },
     {
         "id": 3,
         "name": "capacitor",
-        "quantity": 2,
+        "quantity": 3,
         "shelf": "3"
     },
     {
@@ -26,7 +26,7 @@
     {
         "id": 5,
         "name": "Battery 9V",
-        "quantity": 1,
+        "quantity": 2,
         "shelf": "6A"
     }
 ]
